@@ -1,10 +1,8 @@
 function Footer() {
   return (
-    <div>
+    <div className="container mx-auto">
       <hr />
-      <footer>
-        Healthmate
-      </footer>
+      <footer>&copy;Healthmate</footer>
     </div>
   );
 }

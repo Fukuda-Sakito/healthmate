@@ -4,7 +4,11 @@
   "description": "以前構想した健康に関するアプリケーションの作成に関したリポジトリ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
+    "eject": "react-scripts eject"
   },
   "repository": {
     "type": "git",
