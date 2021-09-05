@@ -4,10 +4,9 @@
   "description": "以前構想した健康に関するアプリケーションの作成に関したリポジトリ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "craco test",
     "start": "craco start",
     "build": "craco build",
-    "test": "craco test",
     "eject": "react-scripts eject"
   },
   "repository": {
@@ -19,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Fukuda-Sakito/healthmate/issues"
   },
-  "homepage": "https://github.com/Fukuda-Sakito/healthmate#readme"
+  "homepage": "https://github.com/Fukuda-Sakito/healthmate#readme",
+  "dependencies": {
+    "@material-ui/core": "^4.12.3"
+  }
 }

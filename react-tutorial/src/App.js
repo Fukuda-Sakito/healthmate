@@ -7,7 +7,7 @@ function App() {
     <div className="container">
       <Header />
       <Maine />
-      <Footer className="main-h-screen flex justify-center items-center"/>
+      <Footer />
     </div>
   );
 }
