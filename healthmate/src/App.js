@@ -7,6 +7,7 @@ function App() {
     <div className="container">
       <Header />
       <Maine />
+      test
       <Footer />
     </div>
   );
