@@ -1,12 +1,12 @@
 import Header from "./component/header";
-import Maine  from "./component/Maine";
+import Main  from "./component/Main";
 import Footer from "./component/Footer";
 
 function App() {
   return (
     <div className="container">
       <Header />
-      <Maine />
+      <Main />
       <Footer />
     </div>
   );
